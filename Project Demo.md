@@ -1,6 +1,7 @@
-# Citibank-Project
+# Citibank Hackathon Innovation
 # AI-powered Financial Relationship Manager Bot with, ML-Driven Insights, and Secure Transaction Analysis for Personalized Wealth Advisory
 
+# Functional Prototype Demo - https://drive.google.com/file/d/1umEgdZNH6bhbvbjafPExWKI9tw-cQyOE/view?usp=drivesdk
 
 Built a full-stack platform using React, Node.js, axios, Flask, and
 GPT-4o model for personalized financial insights and advisory.
